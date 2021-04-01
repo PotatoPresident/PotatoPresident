@@ -87,6 +87,9 @@
   .margin-bottom {
     margin-bottom: 16px;
   }
+  .no-margin-top {
+    margin-top: 0px;
+  }
 
 /* User avatar */
   .avatar {
@@ -1205,7 +1208,7 @@
                     These metrics include private contributions
                 </span>
                 <span>
-                    Last updated Thu, 01 Apr 2021 12:02:01 GMT with lowlighter/metrics@3.6.0-beta
+                    Last updated Thu, 01 Apr 2021 13:08:28 GMT with lowlighter/metrics@3.6.0-beta
                 </span>
             </footer>
             <div id="metrics-end"></div>
